@@ -1,0 +1,23 @@
+{
+    "Goalkeeper": "GK",
+    "Midfielder Left/Centre": "DM",
+    "Midfielder Centre/Right": "DM",
+    "Defender Centre": "CB",
+    "Defender Centre/Right": "CB",
+    "Wing Back Right": "RB",
+    "Midfielder Right": "RW",
+    "Wing Back Left": "LB",
+    "Midfielder Left": "LW",
+    "Defender Left/Centre": "CB",
+    "Striker Centre": "ST",
+    "Midfielder Centre": "DM",
+    "Striker Centre/Right": "RW",
+    "Striker Left/Centre": "ST",
+    "Defender Left": "LB",
+    "Defender Right": "RB",
+    "Defensive Midfielder Left/Centre": "DM",
+    "Attacking Midfielder Centre": "DM",
+    "Attacking Midfielder Left": "LW",
+    "Defensive Midfielder Centre/Right": "DM",
+    "Attacking Midfielder Right": "RW"
+}

@@ -1,0 +1,51 @@
+{
+  "GK": {
+    "PC1": "BuildUp",
+    "PC2": "Directness",
+    "PC3": "Impact",
+    "PC4": "Activity",
+    "PC5": "AerialControl"
+  },
+  "CB": {
+    "PC1": "DefensiveVolumne",
+    "PC2": "Distribution",
+    "PC3": "Aggression",
+    "PC4": "Duels",
+    "PC5": "BuildUp"
+  },
+  "FB": {
+    "PC1": "Attacking",
+    "PC2": "Possession",
+    "PC3": "Defensive",
+    "PC4": "Progression",
+    "PC5": "Duels"
+  },
+  "DM": {
+    "PC1": "Security",
+    "PC2": "Involvement",
+    "PC3": "Defensive",
+    "PC4": "Directness",
+    "PC5": "Aggression"
+  },
+  "AM": {
+    "PC1": "Output",
+    "PC2": "Possession",
+    "PC3": "Distance",
+    "PC4": "Finishing",
+    "PC5": "Positioning"
+  },
+  "WG": {
+    "PC1": "Attacking",
+    "PC2": "Finishing",
+    "PC3": "Risk",
+    "PC4": "Directness",
+    "PC5": "ShootingProfile"
+  },
+  "ST": {
+    "PC1": "Distance",
+    "PC2": "Finishing",
+    "PC3": "Involvement",
+    "PC4": "Efficiency",
+    "PC5": "Physicality"
+  }
+}

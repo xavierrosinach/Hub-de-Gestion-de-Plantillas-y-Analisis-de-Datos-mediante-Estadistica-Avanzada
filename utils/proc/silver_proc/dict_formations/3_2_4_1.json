@@ -1,0 +1,13 @@
+{
+    "Goalkeeper": "GK",
+    "Defender Left/Centre": "CB",
+    "Defensive Midfielder Left/Centre": "DM",
+    "Striker Centre": "ST",
+    "Attacking Midfielder Centre/Right": "AM",
+    "Attacking Midfielder Left/Centre": "AM",
+    "Attacking Midfielder Right": "RW",
+    "Defender Centre": "CB",
+    "Defender Centre/Right": "CB",
+    "Attacking Midfielder Left": "LW",
+    "Defensive Midfielder Centre/Right": "DM"
+}
