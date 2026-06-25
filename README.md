@@ -4,9 +4,8 @@
 
 ---
 
-**Autor:** Xavier Rosinach Capell - *Sports Data Scientist & AI Engineer*
-
-**Formación:** Máster en Big Data Deportivo — Universidad Europea, Escuela Universitaria Real Madrid
+* **Autor:** Xavier Rosinach Capell - *Sports Data Scientist & AI Engineer*
+* **Formación:** Máster en Big Data Deportivo — Universidad Europea, Escuela Universitaria Real Madrid
 
 ---
 
